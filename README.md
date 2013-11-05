@@ -1,7 +1,7 @@
 bluetoothRC
 ===========
 
-A hobby project to remote control pc using mobile phone via bluetooth
+Remote Control your PC using mobile phone via bluetooth
 
 Add bluecove.jar and bluecove-gpl.jar to the java class path.
 You need to have the package libbluetooth-dev package installed.
